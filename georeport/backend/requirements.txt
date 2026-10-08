@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+geopandas>=1.0
+pyogrio
+shapely>=2
+pyproj
+pandas
+matplotlib
